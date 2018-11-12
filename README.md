@@ -19,12 +19,15 @@ ___
 3. Go to OPTIONS > CONTROLS > KEYBOARD > Press 'SHOW' > Select 'CUSTOM KEYS' > Find 'Use Action 18' in list and assign it to any button(-s).
 4. When you are already in-game: press binded key on your keyboard to holster your weapon. Simple?
 ___
-* Works on Vanilla ARMA
-* SP/MP Use
-* Contains .bikey
+* Improved and optimized script.
+* Zeus remote control unit support.
+* Works after loading saved game.
+* Works on "Vanilla" ARMA.
+* SP/MP Use.
+* Contains .bikey.
 ___
 #### _Links to mod_:
-> *   [`Steam Workshop`]()
+> *   [`Steam Workshop`](https://steamcommunity.com/sharedfiles/filedetails/?id=1562915006)
 > *   [`Armaholic page (In Progress)`]()
 
 #### _Contact Links_:
