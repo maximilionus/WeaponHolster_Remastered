@@ -4,7 +4,7 @@ class CfgPatches
 	{
 		units[]={};
 		weapons[]={};
-		requiredAddons[]={};
+		requiredAddons[]={"A3_Characters_F"};
 		author[]=
 		{
 			"MAXIMILI"
@@ -18,7 +18,14 @@ class CfgFunctions
 	{
 		class Actions
 		{
-			class _weaponHolster_core {file = "WeaponHolster_Remastered\fn\fn_weaponHolster_core.sqf";};
+			class _weaponHolster_core
+			{
+				file="WeaponHolster_Remastered\fn\fn_weaponHolster_core.sqf";
+			};
+			class weaponHolster_init
+			{
+				file="WeaponHolster_Remastered\fn\fn_weaponHolster_init.sqf";
+			};
 		};
 	};
 };
