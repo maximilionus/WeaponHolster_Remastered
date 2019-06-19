@@ -1,5 +1,5 @@
-[v 1.2] : XX.06.2019
-
+[v 1.2] : 19.06.2019
+    - Fixed issue with mod not working in loaded savegame (SP/MP).
 [v 1.01] : 12.11.2018
     - Script optimization.
 
